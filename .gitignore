@@ -1,0 +1,33 @@
+# Build directories
+Debug/
+Release/
+build/
+
+# STM32CubeIDE settings
+.settings/
+
+# Debug launch files
+*.launch
+
+# Object files
+*.o
+*.obj
+*.d
+
+# Binaries
+*.elf
+*.bin
+*.hex
+*.map
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
