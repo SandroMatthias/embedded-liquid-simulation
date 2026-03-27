@@ -45,7 +45,7 @@ No library used.
 ## Software Structure
 
 - **Core/** – MCU startup code and main application
-- **BSP/** – SPI/I2C/IM2 
+- **BSP/** – SPI/I2C/TIM2 
 - **Devices/** - MAX7219 & MPU6050 drivers
 - **Filters/** – Kalman filter implementation
 - **Simulations/** – Particle-based fluid simulation engine
