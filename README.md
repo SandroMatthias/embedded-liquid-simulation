@@ -13,6 +13,14 @@ No library used.
 ### Circuit
 ![circuit](pictures/liquidSim_nucleo.png)
 
+1 MAX7219 modul:
+
+[![Embedded Liquid Simulation Demo](https://img.youtube.com/vi/LOCwjhI_D5A/0.jpg)](https://www.youtube.com/watch?v=LOCwjhI_D5A)
+
+4 daisy chained MAX7219 modul:
+
+[![Embedded Liquid Simulation Demo](https://img.youtube.com/vi/H1axw5x5FDc/0.jpg)](https://www.youtube.com/watch?v=H1axw5x5FDc)
+
 ## Features
 
 - **Bare-metal peripheral drivers**:
